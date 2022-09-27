@@ -6,4 +6,4 @@ This is in response to the frontend challenge for the position of Frontend Devel
 Built using HTML, CSS and Javascript
 
 
-https://urbancv.com/share-cv/edmond68/PLdTG3x
+
